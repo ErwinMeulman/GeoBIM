@@ -11,5 +11,7 @@ Scene layer package (.spk or .slpk)
 Tile package (.tpk or .tpkx)
 Vector tile package (.vtpk)
 
+CityEngine web scene (.3ws)
+
 https://euclgis.reg.rw/portal/portalhelp/en/portal/latest/use/supported-items.htm
 https://doc.arcgis.com/en/arcgis-online/reference/supported-items.htm
